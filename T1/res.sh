@@ -1,0 +1,1 @@
+time source ./loop.sh
